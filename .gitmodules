@@ -1,0 +1,42 @@
+[submodule "libraries/diff-match-patch"]
+	path = libraries/diff-match-patch
+	url = https://github.com/overleaf/diff-match-patch.git
+[submodule "libraries/node-fast-crc32c"]
+	path = libraries/node-fast-crc32c
+	url = https://github.com/overleaf/node-fast-crc32c.git
+[submodule "libraries/socket.io-client"]
+	path = libraries/socket.io-client
+	url = https://github.com/overleaf/socket.io-client.git
+[submodule "libraries/socket.io"]
+	path = libraries/socket.io
+	url = https://github.com/overleaf/socket.io.git
+[submodule "libraries/codemirror-autocomplete"]
+	path = libraries/codemirror-autocomplete
+	url = https://github.com/overleaf/codemirror-autocomplete.git
+[submodule "libraries/codemirror-search"]
+	path = libraries/codemirror-search
+	url = https://github.com/overleaf/codemirror-search.git
+[submodule "libraries/codemirror-emacs"]
+	path = libraries/codemirror-emacs
+	url = https://github.com/overleaf/codemirror-emacs.git
+[submodule "libraries/codemirror-indentation-markers"]
+	path = libraries/codemirror-indentation-markers
+	url = https://github.com/overleaf/codemirror-indentation-markers.git
+[submodule "libraries/codemirror-vim"]
+	path = libraries/codemirror-vim
+	url = https://github.com/overleaf/codemirror-vim.git
+[submodule "libraries/ace-builds"]
+	path = libraries/ace-builds
+	url = https://github.com/overleaf/ace-builds.git
+[submodule "libraries/daterangepicker"]
+	path = libraries/daterangepicker
+	url = https://github.com/overleaf/daterangepicker.git
+[submodule "libraries/multer"]
+	path = libraries/multer
+	url = https://github.com/overleaf/multer.git
+[submodule "libraries/nodejs-referer-parser"]
+	path = libraries/nodejs-referer-parser
+	url = https://github.com/overleaf/nodejs-referer-parser.git
+[submodule "libraries/node-sandboxed-module"]
+	path = libraries/node-sandboxed-module
+	url = https://github.com/overleaf/node-sandboxed-module.git

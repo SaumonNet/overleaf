@@ -1,0 +1,14 @@
+github.com/overleaf/diff-match-patch.git#89805f9c671a77a263fc53461acd62aa7498f688
+github.com/overleaf/node-fast-crc32c.git#aae6b2a4c7a7a159395df9cc6c38dfde702d6f51
+github.com/overleaf/socket.io-client.git#805a73d2a2e2408982597d5986a401088b7aa588
+github.com/overleaf/socket.io.git#7ac322c2a5b26a4647834868d78afbb0db1f8849
+github.com/overleaf/codemirror-autocomplete.git#dd201694c0ce7efa1777ef21d0dbe862dcefd338
+github.com/overleaf/codemirror-search.git#6a09ea7eaad138d810f989753036eabce23cc969
+github.com/overleaf/codemirror-emacs.git#cea6eaefe2301bf07e7dec54f028537c3fdc4982
+github.com/overleaf/codemirror-indentation-markers.git#1b1f93c0bcd04293aea6986aa2275185b2c56803
+github.com/overleaf/codemirror-vim.git#07f1b50f4b2e703792da75a29e9e1e479b6b7067
+github.com/overleaf/ace-builds.git#80aa64e7098fead36c15a3f15c6cc6ca5f0e56b1
+github.com/overleaf/daterangepicker.git#e496d2d44ca53e208c930e4cb4bcf29bcefa4550
+github.com/overleaf/multer.git#e1df247fbf8e7590520d20ae3601eaef9f3d2e9e
+github.com/overleaf/nodejs-referer-parser.git#8b8b103762d05b7be4cfa2f810e1d408be67d7bb
+github.com/overleaf/node-sandboxed-module.git#cafa2d60f17ce75cc023e6f296eb8de79d92d35d
